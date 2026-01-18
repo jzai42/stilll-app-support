@@ -1,9 +1,8 @@
-index.md
 ---
 layout: default
 title: Stilll Support
 ---
-
+index.md
 # Stilll Support
 
 This page provides support information for the Stilll application.
